@@ -10,7 +10,7 @@
 
 
 
-### <div align="center">I'm Jetter, an aspiring full-stack freelance developer 🚀</div>  
+### <div align="center">I'm Jetter, an aspiring full-stack developer 🚀</div>  
   
 
 - 🏫 I’m currently studying at Asia Pacific College taking BSIT (MI Technologies) course  
