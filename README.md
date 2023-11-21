@@ -1,5 +1,7 @@
 <div align="center">こんにちは (Hello)</div> 
 
+<br/>  
+<br/>  
 
 <p align="center">
   <img src="https://github.com/jetsgarcia/jetsgarcia/assets/102631417/4123ff54-21c7-4e45-aa39-37570e71d8ee" alt="anime bonk">
