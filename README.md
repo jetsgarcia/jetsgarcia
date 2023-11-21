@@ -1,6 +1,7 @@
 <br/>  
 
-### こんにちは (Hello)
+# <div align="center" style="font-size: 24px;">こんにちは (Hello)</div>
+
 
 
 <br/>  
