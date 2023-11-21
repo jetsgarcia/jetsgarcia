@@ -1,8 +1,7 @@
 <div align="center">こんにちは (Hello)</div> 
 
-<div align="center">
-<img src="https://tenor.com/8ps1.gif" align="center" style="width: 100%" />
-</div>  
+![anime bonk](https://tenor.com/8ps1.gif)
+
   
 
 ### <div align="center">I'm Jetter, an aspiring full-stack freelance developer 🚀</div>  
