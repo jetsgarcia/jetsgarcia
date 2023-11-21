@@ -12,7 +12,7 @@
 
 
 
-## <div align="center">I'm Jetter, an aspiring full-stack developer 🚀</div>  
+## <div align="center">I'm Jetter, an aspiring full-stack web developer 🚀</div>  
   
 
 - 🏫 I’m currently studying at Asia Pacific College taking BSIT (MI Technologies) course  
