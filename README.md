@@ -1,6 +1,10 @@
 <div align="center">こんにちは (Hello)</div> 
 
-![anime bonk](https://github.com/jetsgarcia/jetsgarcia/assets/102631417/4123ff54-21c7-4e45-aa39-37570e71d8ee)
+
+<p align="center">
+  <img src="https://github.com/jetsgarcia/jetsgarcia/assets/102631417/4123ff54-21c7-4e45-aa39-37570e71d8ee" alt="anime bonk">
+</p>
+
 
 
 ### <div align="center">I'm Jetter, an aspiring full-stack freelance developer 🚀</div>  
