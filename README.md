@@ -1,6 +1,7 @@
+<br/>  
+
 <div align="center">こんにちは (Hello)</div> 
 
-<br/>  
 <br/>  
 
 <p align="center">
