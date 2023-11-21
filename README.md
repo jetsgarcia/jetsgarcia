@@ -1,6 +1,7 @@
 <br/>  
 
-<div align="center" style="font-size: 40px;">こんにちは (Hello)</div>
+### こんにちは (Hello)
+
 
 <br/>  
 
@@ -10,7 +11,7 @@
 
 
 
-### <div align="center">I'm Jetter, an aspiring full-stack developer 🚀</div>  
+## <div align="center">I'm Jetter, an aspiring full-stack developer 🚀</div>  
   
 
 - 🏫 I’m currently studying at Asia Pacific College taking BSIT (MI Technologies) course  
