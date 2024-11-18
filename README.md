@@ -14,8 +14,6 @@
 
 - 🌱 I have an introverted nature
 
-- ⚡ Fun fact: I prefer dogs over cats
-
 - ✅ I specialize in the Next.js framework
 
 <br/>
