@@ -4,7 +4,7 @@ A full stack web developer focused on .NET.
 
 Currently:
 - BSIT student at Asia Pacific College
-- Intern at SM Investments
+- Software Developer Intern at SM Investments
 
 Working toward becoming a professional .NET developer by building practical backend and web projects.  
 
