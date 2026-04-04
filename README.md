@@ -13,17 +13,6 @@ Working toward becoming a professional .NET developer by building practical back
 I write about ideas, learning, and development here:  
 [blog.jettergarcia.com](https://blog.jettergarcia.com)
 
-## Connect with Me
-
-<div align="center">
-  <a href="https://github.com/jetsgarcia" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/jetter-garcia" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-
 ## GitHub Stats
 
 <div align="center">
